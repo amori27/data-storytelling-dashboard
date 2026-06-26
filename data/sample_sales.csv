@@ -1,0 +1,60 @@
+date,product,category,region,sales,quantity,profit
+2024-01-07,Widget A,Widgets,North,142.35,12,32.18
+2024-01-14,Widget B,Widgets,South,168.92,8,41.55
+2024-01-21,Gadget X,Gadgets,East,215.47,15,58.72
+2024-01-28,Gadget Y,Gadgets,West,187.63,22,49.34
+2024-02-04,Doohickey,Doohickeys,Central,324.18,7,88.91
+2024-02-11,Widget A,Widgets,North,156.74,14,38.45
+2024-02-18,Widget B,Widgets,South,198.31,18,52.17
+2024-02-25,Gadget X,Gadgets,East,234.56,11,67.84
+2024-03-03,Gadget Y,Gadgets,West,209.87,9,55.23
+2024-03-10,Doohickey,Doohickeys,Central,341.62,16,94.37
+2024-03-17,Widget A,Widgets,North,178.93,13,43.21
+2024-03-24,Widget B,Widgets,South,221.45,20,61.88
+2024-03-31,Gadget X,Gadgets,East,267.89,17,73.45
+2024-04-07,Gadget Y,Gadgets,West,198.34,10,52.67
+2024-04-14,Doohickey,Doohickeys,Central,356.78,14,97.82
+2024-04-21,Widget A,Widgets,North,165.42,11,40.19
+2024-04-28,Widget B,Widgets,South,234.67,19,63.42
+2024-05-05,Gadget X,Gadgets,East,289.01,23,78.56
+2024-05-12,Gadget Y,Gadgets,West,176.54,8,45.78
+2024-05-19,Doohickey,Doohickeys,Central,378.92,18,104.63
+2024-05-26,Widget A,Widgets,North,189.34,15,47.82
+2024-06-02,Widget B,Widgets,South,245.78,21,68.14
+2024-06-09,Gadget X,Gadgets,East,312.45,12,85.21
+2024-06-16,Gadget Y,Gadgets,West,215.67,13,58.93
+2024-06-23,Doohickey,Doohickeys,Central,401.23,19,112.45
+2024-06-30,Widget A,Widgets,North,172.56,10,41.78
+2024-07-07,Widget B,Widgets,South,256.89,17,71.23
+2024-07-14,Gadget X,Gadgets,East,334.67,14,91.45
+2024-07-21,Gadget Y,Gadgets,West,234.12,16,63.78
+2024-07-28,Doohickey,Doohickeys,Central,423.56,22,118.34
+2024-08-04,Widget A,Widgets,North,198.78,12,47.89
+2024-08-11,Widget B,Widgets,South,278.34,15,76.45
+2024-08-18,Gadget X,Gadgets,East,356.89,18,98.12
+2024-08-25,Gadget Y,Gadgets,West,256.78,11,69.34
+2024-09-01,Doohickey,Doohickeys,Central,445.67,20,124.56
+2024-09-08,Widget A,Widgets,North,187.34,13,45.67
+2024-09-15,Widget B,Widgets,South,301.45,16,82.34
+2024-09-22,Gadget X,Gadgets,East,378.12,22,103.78
+2024-09-29,Gadget Y,Gadgets,West,278.34,9,74.56
+2024-10-06,Doohickey,Doohickeys,Central,467.89,17,130.23
+2024-10-13,Widget A,Widgets,North,212.56,14,52.34
+2024-10-20,Widget B,Widgets,South,324.78,19,89.12
+2024-10-27,Gadget X,Gadgets,East,401.23,21,110.45
+2024-11-03,Gadget Y,Gadgets,West,298.67,12,78.91
+2024-11-10,Doohickey,Doohickeys,Central,489.34,18,136.78
+2024-11-17,Widget A,Widgets,North,234.78,15,56.89
+2024-11-24,Widget B,Widgets,South,345.67,23,94.56
+2024-12-01,Gadget X,Gadgets,East,423.56,16,116.34
+2024-12-08,Gadget Y,Gadgets,West,312.45,13,84.23
+2024-12-15,Doohickey,Doohickeys,Central,512.78,21,143.45
+2024-12-22,Widget A,Widgets,North,256.89,17,62.34
+2024-12-29,Widget B,Widgets,South,367.12,14,98.78
+2025-01-05,Gadget X,Gadgets,East,445.67,25,122.45
+2025-01-12,Gadget Y,Gadgets,West,334.56,11,89.12
+2025-01-19,Doohickey,Doohickeys,Central,534.23,19,148.67
+2025-01-26,Widget A,Widgets,North,278.34,18,67.89
+2025-02-02,Widget B,Widgets,South,389.45,15,103.45
+2025-02-09,Gadget X,Gadgets,East,467.89,20,128.34
+2025-02-16,Gadget Y,Gadgets,West,356.78,14,94.56
